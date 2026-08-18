@@ -72,7 +72,7 @@ bullet_style = ParagraphStyle(
     spaceAfter=4
 )
 
-github_url = "GitHub Repository: https://github.com/username/spacex-landing-prediction"
+github_url = "GitHub Repository: https://github.com/GourabGorai/spacex-landing-prediction"
 github_style = ParagraphStyle(
     'GitHubLink',
     parent=styles['Normal'],

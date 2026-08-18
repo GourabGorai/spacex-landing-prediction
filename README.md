@@ -1,5 +1,6 @@
 # 🚀 SpaceX Falcon 9 First Stage Landing Prediction
 ### IBM Applied Data Science Capstone Project Report
+**Repository:** [https://github.com/GourabGorai/spacex-landing-prediction](https://github.com/GourabGorai/spacex-landing-prediction)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Classification-orange.svg)](https://scikit-learn.org/)
